@@ -1,2 +1,2 @@
 # KAIST_MAS651
-KAIST &lt;MAS651: Theory of Stochastic Processes>
+<MAS651: Theory of Stochastic Processes> at the Department of Mathematical Sciences, KAIST.
